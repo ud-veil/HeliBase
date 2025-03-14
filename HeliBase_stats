@@ -1,0 +1,175 @@
+id	family	db	acc	org	strain	protein	length_aa
+Twinkle_TrEMBL_A0A085G4T3_9ENTR	twinkle	TrEMBL	A0A085G4T3_9ENTR	Buttiauxella agrestis	ATCC 33320	Phage-associated DNA primase/replicative helicase	776
+Twinkle_TrEMBL_A0A085JII3_9GAMM	twinkle	TrEMBL	A0A085JII3_9GAMM	Tatumella ptyseos	ATCC 33301	Phage-associated DNA primase/replicative helicase	777
+Twinkle_TrEMBL_A0A0H3GIU0_KLEPH	twinkle	TrEMBL	A0A0H3GIU0_KLEPH	Klebsiella pneumonia subs. pneumoniae	HS11286	Bacteriophage P4 DNA primase	777
+Twinkle_TrEMBL_A0A0H3GLV7_KLEPH	twinkle	TrEMBL	A0A0H3GLV7_KLEPH	Klebsiella pneumonia subs. pneumoniae	HS11286	"Nucleoside triphosphatase, D5 family"	777
+Twinkle_TrEMBL_A0A0H3JC65_ECO57	twinkle	TrEMBL	A0A0H3JC65_ECO57	Escherichia coli O157:H7		Phage DNA primase	777
+Twinkle_TrEMBL_A0A1C4DI33_9ENTR	twinkle	TrEMBL	A0A1C4DI33_9ENTR	Kosakonia oryzendophytica		Putative DNA primase/helicase	777
+Twinkle_TrEMBL_A0A376D7F6_9GAMM	twinkle	TrEMBL	A0A376D7F6_9GAMM	Edwardsiella hoshinae		DNA primate TraC	775
+Twinkle_TrEMBL_A0A4Z0NWG7_SALET	twinkle	TrEMBL	A0A4Z0NWG7_SALET	Salmonella enteric subsp. enteric serovar Poona		DNA primase	777
+Twinkle_TrEMBL_A0A7H0EKG8_KLEVA	twinkle	TrEMBL	A0A7H0EKG8_KLEVA	Klebsiella variicola		Toprim domain-containing protein	780
+Twinkle_TrEMBL_A0A8K0V937_9ENTR	twinkle	TrEMBL	A0A8K0V937_9ENTR	Tenebrionibacter intestinalis		Toprim domain-containing protein	777
+Twinkle_TrEMBL_A0A8K0XYZ9_9ENTR	twinkle	TrEMBL	A0A8K0XYZ9_9ENTR	Tenebrionibacter intestinalis		Toprim domain-containing protein	777
+Twinkle_TrEMBL_A9MKJ8_SALAR	twinkle	TrEMBL	A9MKJ8_SALAR	Salmonella arizonae	ATCC BAA-731/CDC346-86/RSK2980	SF3 helicase domain-containing protein	777
+Twinkle_TrEMBL_H5V618_ATLHE	twinkle	TrEMBL	H5V618_ATLHE	Atlantibacter hermannii NBRC 105704		DNA primase	777
+Twinkle_TrEMBL_I2B694_SHIBC	twinkle	TrEMBL	I2B694_SHIBC	Shimwellia blattae	ATCC 29907/DSM 4481/JCM 1650/NBRC 105725/CDC 9005-74 (Escherichia blattae)	Putative P4-specific DNA primase	777
+Twinkle_SwissProt_P10277_PRIM_BPP4	twinkle	Swiss-Prot	P10277_PRIM_BPP4	Enterobacter phage P4 (Bacteriophage P4)		Putative P4-specific DNA primase	777
+Dda_SwissProt_P32270_DDA_BPT4	Dda	Swiss-Prot	P32270_DDA_BPT4	Enterobacteria phage T4		ATP-dependent DNA helicase dda	439
+Dda_TrEMBL_A0A097J641_BPR32	Dda	TrEMBL	A0A097J641_BPR32	Enterobacteria phage RB33		DNA helicase	439
+Dda_TrEMBL_A0A346FJA2_BPT6	Dda	TrEMBL	A0A346FJA2_BPT6	Enterobacter phage T6 (Bacteriophage T6)		DNA helicase	439
+Dda_TrEMBL_A0A2Z5WJR7_9CAUD	Dda	TrEMBL	A0A2Z5WJR7_9CAUD	Escherichia phage PP01		Dda DNA helicase	439
+Dda_TrEMBL_A0A6B9WV95_9CAUD	Dda	TrEMBL	A0A6B9WV95_9CAUD	Escherichia phage moha		DNA helicase	437
+Dda_TrEMBL_A0A6B9XES6_9CAUD	Dda	TrEMBL	A0A6B9XES6_9CAUD	Escherichia phage moskry		ATP-dependent RecD-like DNA helicase	437
+Dda_TrEMBL_Q7Y5C3_BPR69	Dda	TrEMBL	Q7Y5C3_BPR69	Escherichia phage RB69 (Bacteriophage RB69)		Dda DNA helicase	437
+Dda_TrEMBL_A0A7R8MQ08_9CAUD	Dda	TrEMBL	A0A7R8MQ08_9CAUD	Klebsiella phage vB_KpM_Wobble		DNA helicase	443
+Dda_TrEMBL_A0AAE9HLW5_9CAUD	Dda	TrEMBL	A0AAE9HLW5_9CAUD	Salmonella phage CF-SP2		ATP-dependent DNA helicase	441
+Dda_TrEMBL_A0A386K5D0_9CAUD	Dda	TrEMBL	A0A386K5D0_9CAUD	Shigella_phage phi25-307		ATP-dependent RecD-like DNA helicase	437
+DnaB_SwissProt_Q8FB22_DNAB_ECOL6	DnaB	Swiss-Prot	Q8FB22_DNAB_ECOL6	Escherichia coli O6:H1	CFT073/ATCC 700928/UPEC	Replicative DNA helicase DnaB	471
+DnaB_TrEMBL_Q76H51_9CAUD	DnaB	TrEMBL	Q76H51_9CAUD	Enterobacteria phage ST104		DNA 5'-3' helicase	458
+DnaB_TrEMBL_K7P852_9CAUD	DnaB	TrEMBL	K7P852_9CAUD	Escherichia phage HK446		DNA 5'-3' helicase	458
+DnaB_TrEMBL_K7P7K2_9CAUD	DnaB	TrEMBL	K7P7K2_9CAUD	Escherichia phage HK544		DNA 5'-3' helicase	458
+DnaB_TrEMBL_A0A1R3Y5T0_9CAUD	DnaB	TrEMBL	A0A1R3Y5T0_9CAUD	Lederbergvirus BTP1		DNA 5'-3' helicase	458
+DnaB_SwissProt_P03006_VG12_BPP22	DnaB	Swiss-Prot	VG12_BPP22	Salmonella phage P22 (Bacteriophage P22)		Replicative DNA helicase	458
+DnaB_TrEMBL_A0A2H4FQW0_9CAUD	DnaB	TrEMBL	A0A2H4FQW0_9CAUD	Salmonella phage UFP_BP1		DNA 5'-3' helicase	458
+DnaB_TrEMBL_A0A0P0ZC27_9CAUD	DnaB	TrEMBL	A0A0P0ZC27_9CAUD	Stx2-converting phage Stx2a_F349		DNA 5'-3' helicase	458
+DnaB_TrEBML_A0A085AF45_9ENTR	DnaB	TrEMBL	A0A085AF45_9ENTR	Trabulsiella guamensis	ATCC 49490	DNA 5'-3' helicase	456
+Gp41_SwissProt_P04530_HELIC_BPT4	Gp41	Swiss-Prot	P04530_HELIC_BPT4	Enterobacteria phage T4 (Bacteriophage T4)		DnaB-like replicative helicase	475
+Gp41_TrEMBL_A0A0A0YQL5_9CAUD	Gp41	TrEMBL	A0A0A0YQL5_9CAUD	Citrobacter phage Moon		DnaB-like replicative helicase	455
+Gp41_TrEMBL_A0A346FJC5_BPT6	Gp41	TrEMBL	A0A346FJC5_BPT6	Enterobacteria phage T6 (Bacteriophage T6)		DnaB-like replicative helicase	475
+Gp41_TrEMBL_A0A2Z5H2I4_9CAUD	Gp41	TrEMBL	A0A2Z5H2I4_9CAUD	Escherichia phage vB_EcoM_JB75		DnaB-like replicative helicase	475
+Gp41_TrEMBL_A0A482MVK8_9CAUD	Gp41	TrEMBL	A0A482MVK8_9CAUD	Escherichia phage vB_EcoM_WFbE185		DnaB-like replicative helicase	480
+Gp41_TrEMBL_A0A159B7V9_9CAUD	Gp41	TrEMBL	A0A159B7V9_9CAUD	Klebsiella phage PKO111		protein=DnaB-like replicative helicase	479
+Gp41_TrEMBL_C1KFP8_9CAUD	Gp41	TrEMBL	C1KFP8_9CAUD	Mooreparkvirus Lb3381		Putative helicase	501
+Gp41_TrEMBL_Q7Y596_BPR69	Gp41	TrEMBL	Q7Y596_BPR69	Escherichia phage RB69 (Bacteriophage RB69)		DnaB-like replicative helicase	480
+Gp41_TrEMBL_M1EAL5_BPS16	Gp41	TrEMBL	M1EAL5_BPS16	Salmonella phage S16 (Salmonella phage vB_SenM-S16)		DnaB-like replicative helicase	457
+Gp41_TrEMBL_A0A386K426_9CAUD	Gp41	TrEMBL	A0A386K426_9CAUD	Shigella phage phi25-307		DnaB-like replicative helicase	480
+Gp41_TrEMBL_A0A2Z5WKF0_BPT2	Gp41	TrEMBL	A0A2Z5WKF0_BPT2	Enterobacteria phage T2 (Bacteriophage T2)		DnaB-like replicative helicase	475
+Gp4_TrEMBL_P03692_HELIC_BPT7	Gp4	TrEMBL	P03692_HELIC_BPT7	Escherichia phage T7 (Bacteriophage T7)		DNA helicase/primase	566
+Gp4_TrEMBL_A0A088F7Y5_9CAUD	Gp4	TrEMBL	A0A088F7Y5_9CAUD	Escherichia phage CICC 80001		DNA helicase/primase	566
+Gp4_TrEMBL_A0A0E3JJI4_9CAUD	Gp4	TrEMBL	A0A0E3JJI4_9CAUD	Citrobacter phage phiCFP-1		DNA helicase/primase	566
+Gp4_TrEMBL_A0A172JG30_9CAUD	Gp4	TrEMBL	A0A172JG30_9CAUD	Citrobacter phage SH1		DNA helicase/primase	566
+Gp4_TrEMBL_A0A2P1CL19_9CAUD	Gp4	TrEMBL	A0A2P1CL19_9CAUD	Escherichia phage Ebrios		DNA helicase/primase	566
+Gp4_TrEMBL_A0A0E3JQ91_9CAUD	Gp4	TrEMBL	A0A0E3JQ91_9CAUD	Enterobacter phage E-2		DNA helicase/primase	504
+Gp4_TrEMBL_A0A0E3M3G5_9CAUD	Gp4	TrEMBL	A0A0E3M3G5_9CAUD	Enterobacter phage E-3		DNA helicase/primase	504
+Gp4_TrEMBL_A0A6B9RGV1_9CAUD	Gp4	TrEMBL	A0A6B9RGV1_9CAUD	Escherichia phage vB_EcoP_PHB19		DNA helicase/primase	503
+Gp4_TrEMBL_A0A2H4P6T6_9CAUD	Gp4	TrEMBL	A0A2H4P6T6_9CAUD	Escherichia phage EG1		DNA helicase/primase	566
+Gp4_TrEMBL_A0A2K9VK00_9CAUD	Gp4	TrEMBL	A0A2K9VK00_9CAUD	Escherichia phage HZ2R8		DNA helicase/primase	566
+Gp4_TrEMBL_A0A5B9NCK5_9CAUD	Gp4	TrEMBL	A0A5B9NCK5_9CAUD	Klebsiella phage vB_KpnP_Emp27		DNA helicase/primase	566
+Gp4_TrEMBL_A0A386K6A3_9CAUD	Gp4	TrEMBL	A0A386K6A3_9CAUD	Escherichia phage N30		DNA helicase/primase	504
+Gp4_TrEMBL_A0A678ZKE0_9CAUD	Gp4	TrEMBL	A0A678ZKE0_9CAUD	Pectobacterium phage Q19		DNA helicase/primase	573
+Gp4_TrEMBL_A0A481S2T4_9CAUD	Gp4	TrEMBL	A0A481S2T4_9CAUD	Escherichia phage NC-A		DNA helicase/primase	503
+Gp4_TrEMBL_A0A2Z5HAJ6_9CAUD	Gp4	TrEMBL	A0A2Z5HAJ6_9CAUD	Salmonella phage 3A_8767		DNA helicase/primase	503
+Gp4_SwissProt_P20315_HELIC_BPT3	Gp4	Swiss-Prot	P20315_HELIC_BPT3	Enterobacteria phage T3 (Bacteriophage T3)		DNA helicase/primase	566
+Gp4_TrEMBL_M9PK35_9CAUD	Gp4	TrEMBL	M9PK35_9CAUD	Yersinia phage Y		DNA helicase/primase	566
+Gp4_TrEMBL_I6Q9R9_9CAUD	Gp4	TrEMBL	I6Q9R9_9CAUD	Yersinia phage YpsP-G		DNA helicase/primase	566
+Gp4_TrEMBL_Q9T129_9CAUD	Gp4	TrEMBL	Q9T129_9CAUD	Yersinia phage phiYeO3-12		DNA helicase/primase	566
+Gp4_TrEMBL_K4P006_9CAUD	Gp4	TrEMBL	K4P006_9CAUD	Stenotrophomonas phage IME15		DNA helicase/primase	503
+PcrA_SwissProt_O34580_PCRA_BACSU	PcrA	Swiss-Prot	O34580_PCRA_BACSU	Bacillus subtilis (strain 168)	168	ATP-dependent DNA helicase PcrA	739
+PcrA_TrEMBL_A0A160FCU5_9BACI	PcrA	TrEMBL	A0A160FCU5_9BACI	Anoxybacillus sp. B7M1		ATP-dependent DNA helicase	732
+PcrA_TrEMBL_A0A0M4FN32_9BACI	PcrA	TrEMBL	A0A0M4FN32_9BACI	Bacillus gobiensis		ATP-dependent DNA helicase	738
+PcrA_TrEMBL_A0A084H1D9_METID	PcrA	TrEMBL	A0A084H1D9_METID	Metabacillus indicus (Bacillus indicus)		ATP-dependent DNA helicase	737
+PcrA_TrEMBL_Q65MR3_BACLD	PcrA	TrEMBL	Q65MR3_BACLD	Bacillus licheniformis 	ATCC 14580 / DSM 13 / JCM 2505 / CCUG 7422 / NBRC 12200 / NCIMB 9375 / NCTC 10341 / NRRL NRS-1264 / Gibson 46	ATP-dependent DNA helicase	739
+PcrA_TrEMBL_A8FAQ0_BACP2	PcrA	TrEMBL	A8FAQ0_BACP2	Bacillus pumilus	SAFR-032	ATP-dependent DNA helicase	740
+PcrA_SwissProt_P56255_PCRA_GEOSE	PcrA	Swiss-Prot	P56255_PCRA_GEOSE	Geobacillus stearothermophilus (Bacillus stearothermophilus)		ATP-dependent DNA helicase PcrA	724
+PcrA_TrEMBL_Q5L3C0_GEOKA	PcrA	TrEMBL	Q5L3C0_GEOKA	Geobacillus kaustophilus	HTA426	ATP-dependent DNA helicase PcrA	724
+PcrA_TrEMBL_A0A4R1QIU5_9BACI	PcrA	TrEMBL	A0A4R1QIU5_9BACI	Thermolongibacillus altinsuensis		ATP-dependent DNA helicase	723
+RecA_SwissProt_P0A7G6_RECA_ECOLI	RecA	Swiss-Prot	P0A7G6_RECA_ECOLI	Escherichia coli (strain K12)	K12	Protein RecA	353
+RecA_SwissProt_P45383_RECA_VIBCH	RecA	Swiss-Prot	P45383_RECA_VIBCH	Vibrio cholerae serotype O1	ATCC 39315 / El Tor Inaba N16961	Protein RecA	354
+RecA_SwissProt_Q07447_RECA_PSEPU	RecA	Swiss-Prot	Q07447_RECA_PSEPU	Pseudomonas putida (Arthrobacter siderocapsulatus)		Protein RecA	355
+RecA_SwissProt_P16971_RECA_BACSU	RecA	Swiss-Prot	P16971_RECA_BACSU	Bacillus subtilis (strain 168)	168	Protein RecA	348
+RecA_SwissProt_Q46IQ5_RECA_PROMT	RecA	Swiss-Prot	Q46IQ5_RECA_PROMT	Prochlorococcus marinus (strain NATL2A)	NATL2A	Protein RecA	377
+RecA_SwissProt_Q8RFY0_RECA_FUSNN	RecA	Swiss-Prot	Q8RFY0_RECA_FUSNN	Fusobacterium nucleatum subsp. nucleatum	ATCC 25586 / DSM 15643 / BCRC 10681 / CIP 101130 / JCM 8532 / KCTC 2640 / LMG 13131 / VPI 4355	Protein RecA	378
+RecA_SwissProt_P42443_RECA_DEIRA	RecA	Swiss-Prot	P42443_RECA_DEIRA	Deinococcus radiodurans	ATCC 13939 / DSM 20539 / JCM 16871 / CCUG 27074 / LMG 4051 / NBRC 15346 / NCIMB 9279 / VKM B-1422 / R1	Protein RecA	363
+RecB_SwissProt_P08394_RECB_ECOLI	RecB	Swiss-Prot	P08394_RECB_ECOLI	Escherichia coli (strain K12)	K12	RecBCD enzyme subunit RecB	1180
+RecB_SwissProt_A0QS29_RECB_MYCS2	RecB	Swiss-Prot	A0QS29_RECB_MYCS2	Mycolicibacterium smegmatis	ATCC 700084 / mc(2)155	RecBCD enzyme subunit RecB	1083
+RecB_SwissProt_O51578_RECB_BORBU	RecB	Swiss-Prot	O51578_RECB_BORBU	Borreliella burgdorferi	ATCC 35210 / DSM 4680 / CIP 102532 / B31) (Borrelia burgdorferi	RecBCD enzyme subunit RecB	1169
+RecB_SwissProt_O84645_RECB_CHLTR	RecB	Swiss-Prot	O84645_RECB_CHLTR	Chlamydia trachomatis serovar D	ATCC VR-885 / DSM 19411 / UW-3/Cx	RecBCD enzyme subunit RecB	1026
+RecB_SwissProt_P9WMQ2_RECB_MYCTO	RecB	Swiss-Prot	P9WMQ2_RECB_MYCTO	Mycobacterium tuberculosis	CDC 1551 / Oshkosh	RecBCD enzyme subunit RecB	1094
+RecB_SwissProt_P9WMQ3_RECB_MYCTU	RecB	Swiss-Prot	P9WMQ3_RECB_MYCTU	Mycobacterium tuberculosis	ATCC 25618 / H37Rv)	RecBCD enzyme subunit RecB	1094
+RecB_SwissProt_P45157_RECB_HAEIN	RecB	Swiss-Prot	P45157_RECB_HAEIN	Haemophilus influenzae	ATCC 51907 / DSM 11121 / KW20 / Rd	RecBCD enzyme subunit RecB	1211
+RecB_SwissProt_P57529_RECB_BUCAI	RecB	Swiss-Prot	P57529_RECB_BUCAI	Buchnera aphidicola subsp. Acyrthosiphon pisum (Acyrthosiphon pisum symbiotic bacterium)	APS	RecBCD enzyme subunit RecB	1174
+RecB_SwissProt_Q8K9A9_RECB_BUCAP	RecB	Swiss-Prot	Q8K9A9_RECB_BUCAP	Buchnera aphidicola subsp. Schizaphis graminum	Sg	RecBCD enzyme subunit RecB	1179
+RecB_SwissProt_Q9PLT8_RECB_CHLMU	RecB	Swiss-Prot	Q9PLT8_RECB_CHLMU	Chlamydia muridarum	MoPn / Nigg	RecBCD enzyme subunit RecB	1026
+RecB_SwissProt_Q9Z7G7_RECB_CHLPN	RecB	Swiss-Prot	Q9Z7G7_RECB_CHLPN	Chlamydia pneumoniae (Chlamydophila pneumoniae)		RecBCD enzyme subunit RecB	1050
+RecB_SwissProt_Q89AB3_RECB_BUCBP	RecB	Swiss-Prot	Q89AB3_RECB_BUCBP	Buchnera aphidicola subsp. Baizongia pistaciae	Bp	RecBCD enzyme subunit RecB	1180
+RecD_SwissProt_P04993_RECD_ECOLI	RecD	Swiss-Prot	P04993_RECD_ECOLI	Escherichia coli (strain K12)	K12	RecBCD enzyme subunit RecD	608
+RecD_SwissProt_A0QS28_RECD_MYCS2	RecD	Swiss-Prot	A0QS28_RECD_MYCS2	Mycolicibacterium smegmatis (Mycobacterium smegmatis)	ATCC 700084 / mc(2)155	RecBCD enzyme subunit RecD	554
+RecD_SwissProt_O34481_RECD2_BACSU	RecD	Swiss-Prot	O34481_RECD2_BACSU	Bacillus subtilis (strain 168)	168	ATP-dependent RecD2 DNA helicase	798
+RecD_SwissProt_P9WHJ0_RECD_MYCTO	RecD	Swiss-Prot	P9WHJ0_RECD_MYCTO	Mycobacterium tuberculosis	CDC 1551 / Oshkosh	RecBCD enzyme subunit RecD	575
+RecD_SwissProt_P9WHJ1_RECD_MYCTU	RecD	Swiss-Prot	P9WHJ1_RECD_MYCTU	Mycobacterium tuberculosis	ATCC 25618 / H37Rv	RecBCD enzyme subunit RecD	575
+RecD_SwissProt_P45158_RECD_HAEIN	RecD	Swiss-Prot	P45158_RECD_HAEIN	Haemophilus influenzae	ATCC 51907 / DSM 11121 / KW20 / Rd	RecBCD enzyme subunit RecD	640
+RecD_BSwissProt_P57530_RECD_BUCAI	RecD	Swiss-Prot	P57530_RECD_BUCAI	Buchnera aphidicola subsp. Acyrthosiphon pisum (Acyrthosiphon pisum symbiotic bacterium)	APS	RecBCD enzyme subunit RecD	602
+RecD_SwissProt_Q8K9A8_RECD_BUCAP	RecD	Swiss-Prot	Q8K9A8_RECD_BUCAP	Buchnera aphidicola subsp. Schizaphis graminum	Sg	RecBCD enzyme subunit RecD	602
+RecD_SwissProt_Q9RT63_RECD2_DEIRA	RecD	Swiss-Prot	Q9RT63_RECD2_DEIRA	Deinococcus radiodurans	ATCC 13939 / DSM 20539 / JCM 16871 / CCUG 27074 / LMG 4051 / NBRC 15346 / NCIMB 9279 / VKM B-1422 / R1	ATP-dependent RecD2 DNA helicase	715
+RecD_SwissProt_Q89AB2_RECD_BUCBP	RecD	Swiss-Prot	Q89AB2_RECD_BUCBP	Buchnera aphidicola subsp. Baizongia pistaciae	Bp	RecBCD enzyme subunit RecD	618
+RecG_SwissProt_P24230_RECG_ECOLI	RecG	Swiss-Prot	P24230_RECG_ECOLI	Escherichia coli (strain K12)	K12	ATP-dependent DNA helicase RecG	693
+RecG_TrEMBL_A0A085G3S7_9GAMM	RecG	TrEMBL	A0A085G3S7_9GAMM	Ewingella americana		ATP-dependent DNA helicase RecG	693
+RecG_TrEMBL_A0A089RFT5_9ENTR	RecG	TrEMBL	A0A089RFT5_9ENTR	Cedecea neteri		ATP-dependent DNA helicase RecG	693
+RecG_TrEMBL_A0A7H9GM61_9ENTR	RecG	TrEMBL	A0A7H9GM61_9ENTR	Klebsiella michiganensis		ATP-dependent DNA helicase RecG	693
+RecG_TrEMBL_D2TIV1_CITRI	RecG	TrEMBL	D2TIV1_CITRI	Citrobacter rodentium (Citrobacter freundii biotype 4280)	ICC168	ATP-dependent DNA helicase RecG	693
+RecG_TrEMBL_A0A8K0V3C0_9ENTR	RecG	TrEMBL	A0A8K0V3C0_9ENTR	Tenebrionibacter intestinalis		ATP-dependent DNA helicase RecG	693
+RecG_TrEMBL_A0A2I0FWV1_9GAMM	RecG	TrEMBL	A0A2I0FWV1_9GAMM	Enterobacterales bacterium CwR94		ATP-dependent DNA helicase RecG	693
+RecG_TrEMBL_J7U0Q1_MORMO	RecG	TrEMBL	J7U0Q1_MORMO	Morganella morganii subsp. morganii KT		ATP-dependent DNA helicase RecG	693
+RecG_TrEMBL_A0A0J1H1Q4_9GAMM	RecG	TrEMBL	A0A0J1H1Q4_9GAMM	Photobacterium ganghwense		ATP-dependent DNA helicase RecG	693
+RecG_SwissProt_Q55681_RECG_SYNY3	RecG	Swiss-Prot	Q55681_RECG_SYNY3	Synechocystis sp.	ATCC 27184 / PCC 6803 / Kazusa	ATP-dependent DNA helicase RecG	831
+RecG_SwissProt_O34942_RECG_BACSU	RecG	Swiss-Prot	O34942_RECG_BACSU	Bacillus subtilis (strain 168)	168	ATP-dependent DNA helicase RecG	682
+RecG_SwissProt_Q6G9Y6_RECG_STAAS	RecG	Swiss-Prot	Q6G9Y6_RECG_STAAS	Staphylococcus aureus	MSSA476	ATP-dependent DNA helicase RecG	686
+RecG_SwissProt_O67837_RECG_AQUAE	RecG	Swiss-Prot	O67837_RECG_AQUAE	Aquifex aeolicus	VF5	ATP-dependent DNA helicase RecG	792
+RecG_SwissProt_O50224_RECG_ACIFI	RecG	Swiss-Prot	O50224_RECG_ACIFI	Acidithiobacillus ferridurans		ATP-dependent DNA helicase RecG	684
+SNF2_TrEMBL_W5XZL8_9CORY	SNF2	TrEMBL	W5XZL8_9CORY	Corynebacterium vitaeruminis DSM 20294		Phage-associated protein	458
+SNF2_TrEMBL_R5J2M1_9CLOT	SNF2	TrEMBL	R5J2M1_9CLOT	Clostridium sp. CAG:7		Helicase ATP-binding domain-containing protein	455
+SNF2_TrEMBL_K9EXU2_9ACTO	SNF2	TrEMBL	K9EXU2_9ACTO	Actinobaculum massiliense ACS-171-V-Col2		Helicase ATP-binding domain-containing protein	453
+SNF2_TrEMBL_K4PWS0_9CAUD	SNF2	TrEMBL	K4PWS0_9CAUD	Edwardsiella phage KF-1		Uncharacterized protein	395
+SNF2_TrEMBL_A0A346FK07_9CAUD	SNF2	TrEMBL	A0A346FK07_9CAUD	Bacillus phage Wes44		Helicase	457
+SNF2_TrEMBL_A0A174FTB3_9FIRM	SNF2	TrEMBL	A0A174FTB3_9FIRM	Faecalicatena contorta		DNA methylase	457
+SNF2_TrEMBL_A0A7U0GBB6_9CAUD	SNF2	TrEMBL	A0A7U0GBB6_9CAUD	Klebsiella phage vB_KpM_FBKp24		Putative SNF2 domain/DEAD-like helicase	664
+SNF2_TrEMBL_A0A3L8GIS4_STRIN	SNF2	TrEMBL	A0A3L8GIS4_STRIN	Streptococcus iniae (Streptococcus shiloi)		ATP-dependent helicase	458
+SNF2_TrEMBL_A0A289YZM3_9CAUD	SNF2	TrEMBL	A0A289YZM3_9CAUD	Serratia phage vB_SmaM_ 2050HW		Putative SNF2 domain helicase	592
+SNF2_KeownNAR2022_IMGGs0116709	SNF2	KeownNAR2022_SuppTable1	IMGGs0116709_helicase1	metagenome-assembled contig		helicase	562
+SNF2_KeownNAR2022_IMGGs0096890	SNF2	KeownNAR2022_SuppTable1	IMGGs0096890_helicase1	metagenome-assembled contig		helicase	516
+SNF2_KeownNAR2022_IMGGs0129088	SNF2	KeownNAR2022_SuppTable1	IMGGs0129088	metagenome-assembled contig		 helicase	535
+SNF2_KeownNAR2022_L1S75_ctg7180000266333_helicase1	SNF2	KeownNAR2022_SuppTable1	L1S75_ctg7180000266333_helicase1	virome-assembled ctg7180000266333		helicase	461
+SNF2_KeownNAR2022_L1S55_ctg7180000328598_helicase1	SNF2	KeownNAR2022_SuppTable1	L1S55_ctg7180000328598_helicase1	virome-assembled contig		helicase	452
+SNF2_KeownNAR2022_L1R1_Rugeria_phage_unpublished_helicase1	SNF2	KeownNAR2022_SuppTable1	L1R1_Rugeria_phage_published_helicase1	Rugeria phage unpublished genome		helicase	510
+SNF2_KeownNAR2022_FS24_ctg7180000287950_helicase1	SNF2	KeownNAR2022_SuppTable1	FS24_ctg7180000287950_helicase1	virome-assembled contig		helicase	557
+SNF2_KeownNAR2022_FR2_Vibrio_phage_VPMS1_helicase1	SNF2	KeownNAR2022_SuppTable1	FR2_Vibrio_phage_VPMS1_helicase1	"Vibrio phage vpms1, NCBI NC_021776"		helicase	396
+SNF2_TrEMBL_K8GSL7_9CYAN	SNF2	TrEMBL	TrEMBL_K8GSL7_9CYAN	Leptolyngbyaceae cyanobacterium JSC-12		"DNA/RNA helicase, superfamily II, SNF2 family"	545
+SNF2_TrEMBL_A0A3A1YLK3_9GAMM	SNF2	TrEMBL	A0A3A1YLK3_9GAMM	Psittacicella hinzii		DEAD/DEAH box helicase	575
+SNF2_TrEMBL_Q1DD09_MYXXD	SNF2	TrEMBL	Q1DD09_MYXXD	Myxococcus xanthus	DK1622	Helicase	676
+UvrB_SwissProt_P0A8F8_UVRB_ECOLI	UvrB	Swiss-Prot	P0A8F8_UVRB_ECOLI	Escherichia coli (strain K12)	K12	UvrABC system protein B	673
+UvrB_SwissProt_Q7MM80_UVRB_VIBVY	UvrB	Swiss-Prot	Q7MM80_UVRB_VIBVY	Vibrio vulnificus	YJ016	UvrABC system protein B	676
+UvrB_SwissProt_P56981_UVRB_BACCA	UvrB	Swiss-Prot	P56981_UVRB_BACCA	Bacillus caldotenax		UvrABC system protein B	658
+UvrB_SwissProt_P37954_UVRB_BACSU	UvrB	Swiss-Prot	P37954_UVRB_BACSU	Bacillus subtilis	168	UvrABC system protein B	661
+UvrB_SwissProt_Q5WDG7_UVRB_ALKCK	UvrB	Swiss-Prot	Q5WDG7_UVRB_ALKCK	Shouchella clausii(Alkalihalobacillus clausii)	KSM-K16	UvrABC system protein B	660
+UvrB_SwissProt_Q4L4I5_UVRB_STAHJ	UvrB	Swiss-Prot	Q4L4I5_UVRB_STAHJ	Staphylococcus haemolyticus	JCSC1435	UvrABC system protein B	661
+UvrB_SwissProt_Q7UZL3_UVRB_PROMP	UvrB	Swiss-Prot	Q7UZL3_UVRB_PROMP	Prochlorococcus marinus subsp. pastoris	CCMP1986 / NIES-2087 / MED4	UvrABC system protein B	679
+UvrB_SwissProt_Q8DHC6_UVRB_THEVB	UvrB	Swiss-Prot	Q8DHC6_UVRB_THEVB	Thermosynechococcus vestitus	NIES-2133 / IAM M-273 / BP-1	UvrABC system protein B	668
+UvrD_SwissProt_P9WMQ1_UVRD1_MYCTU	UvrB	Swiss-Prot	P9WMQ1_UVRD1_MYCTU	Mycobacterium tuberculosis	ATCC 25618 / H37Rv	ATP-dependent DNA helicase UvrD1	771
+UvrD_UniParc_UPI000185062F	UvrD	UniParc	UPI000185062F	Baccilus phage SPO1		putative UvrD-type helicase	703
+UvrD_UniParc_UPI0003C338D4	UvrD	UniParc	UPI0003C338D4	Bacillus phage CampHawk		UvrD-like helicase	703
+UvrD_TrEMBL_A0A7G5CGS3_9CAUD	UvrD	TrEMBL	A0A7G5CGS3_9CAUD	Bacillus phage vB_BsuM-Goe9		DNA 3'-5' helicase	703
+UvrD_TrEMBL_A0A3G3BWI6_9CAUD	UvrD	TrEMBL	A0A3G3BWI6_9CAUD	Exiguobacterium phage vB_EalM-132		DNA 3'-5' helicase	653
+UvrD_TrEMBL_A0A1A3MUC9_MYCAS	UvrD	TrEMBL	A0A1A3MUC9_MYCAS	Mycobacterium asiaticum		ATP-dependent DNA helicase	806
+UvrD_TrEMBL_A0A1X1T0R2_9MYCO	UvrD	TrEMBL	A0A1X1T0R2_9MYCO	Mycobacterium conspicuum		ATP-dependent DNA helicase	772
+UvrD_TrEMBL_A0A0I9VH58_9MYCO	UvrD	TrEMBL	A0A0I9VH58_9MYCO	Mycobacterium haemophilum		ATP-dependent DNA helicase	782
+UvrD_SwissProt_Q9CD72_UVRD1_MYCLE	UvrD	Swiss-Prot	Q9CD72_UVRD1_MYCLE	Mycobacterium leprae	TN	ATP-dependent DNA helicase UvrD1	778
+UvrD_TrEMBL_B2HED4_MYCMM	UvrD	TrEMBL	B2HED4_MYCMM	Mycobacterium marinum	ATCC BAA-535 / M	ATP-dependent DNA helicase	769
+UvrD_TrEMBL_A0AAJ3TWJ4_9MYCO	UvrD	TrEMBL	A0AAJ3TWJ4_9MYCO	Mycobacterium saskatchewanense		ATP-dependent DNA helicase	774
+vsW_SwissProt_P20703_UVSW_BPT4	UvsW	Swiss-Prot	P20703_UVSW_BPT4	Enterobacteria phage T4 (Bacteriophage T4)		ATP-dependent DNA helicase uvsW	587
+UvsW_TrEMBL_E3SEZ9_BPSP8	UvsW	TrEMBL	E3SEZ9_BPSP8	Shigella phage SP18		RNA-DNA and DNA-DNA helicase ATPase	499
+UvsW_TrEMBL_K4IFL9_9CAUD	UvsW	TrEMBL	K4IFL9_9CAUD	Salmonella phage STML-198		DNA helicase	499
+UvsW_TrEMBL_A0A5B9NQP6_9CAUD	UvsW	TrEMBL	A0A5B9NQP6_9CAUD	Klebsiella phage vB_KaeM_KaAlpha		Putative split helicase	514
+UvsW_TrEMBL_Q7Y4V3_BPR69	UvsW	TrEMBL	Q7Y4V3_BPR69	Escherichia phage RB69 (Bacteriophage RB69)		"UvsW RNA-DNA and DNA-DNA helicase, ATPase"	504
+UvsW_TrEMBL_A0A6B9XJ18_9CAUD	UvsW	TrEMBL	A0A6B9XJ18_9CAUD	Escherichia phage moskry		DNA helicase	504
+UvsW_TrEMBL_C4MZS5_9CAUD	UvsW	TrEMBL	C4MZS5_9CAUD	Escherichia phage JS10		"UvsW RNA-DNA and DNA-DNA helicase, ATPase"	498
+UvsW_TrEMBL_A0A097J6P8_BPR32	UvsW	TrEMBL	A0A097J6P8_BPR32	Enterobacteria phage RB33		RNA-DNA and DNA-DNA helicase ATPase	503
+UvsW_TrEMBL_A0A097J162_BPR03	UvsW	TrEMBL	A0A097J162_BPR03	Enterobacteria phage RB3 (Bacteriophage RB3)		RNA-DNA and DNA-DNA helicase ATPase	502
+UvsW_TrEMBL_A0A0A0YTN8_9CAUD	UvsW	TrEMBL	A0A0A0YTN8_9CAUD	Citrobacter phage Moon		Helicase	499
+UvsX_SwissProt_P04529_UVSX_BPT4	UvsX	Swiss-Prot	P04529_UVSX_BPT4	Enterobacteria phage T4 (Bacteriophage T4)		Recombination and repair protein	391
+UvsX_TrEMBL_A0A0B4LA40_9CAUD	UvsX	TrEMBL	A0A0B4LA40_9CAUD	Salmonella phage STP4-a		RecA-like recombinase protein UvsX	387
+UvsX_TrEMBL_A0A0B4ZX15_9CAUD	UvsX	TrEMBL	A0A0B4ZX15_9CAUD	Yersinia phage vB_YenM_TG1		RecA-like recombination protein	308
+UvsX_TrEMBL_A0A1Z1LY52_9CAUD	UvsX	TrEMBL	A0A1Z1LY52_9CAUD	Serratia phage CBH8		RecA-like recombination protein	388
+UvsX_TrEMBL_A0A3P4AA29_9CAUD	UvsX	TrEMBL	A0A3P4AA29_9CAUD	Escherichia virus vB_Eco_mar005P1		RecA-like recombination protein	390
+UvsX_TrEMBL_A0A3T0IM65_9CAUD	UvsX	TrEMBL	A0A3T0IM65_9CAUD	Shigella phage vB_SdyM_006		RecA-like recombinase protein	383
+UvsX_TrEMBL_A0A7I8V5C0_9CAUD	UvsX	TrEMBL	A0A7I8V5C0_9CAUD	Klebsiella phage vB_KpnM_311F		RecA-like recombinase protein	391
+UvsX_TrEMBL_A0A7U0J500_9CAUD	UvsX	TrEMBL	A0A7U0J500_9CAUD	Providencia phage PSTRCR_121		Recombination protein	381
